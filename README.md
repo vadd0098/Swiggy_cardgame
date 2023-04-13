@@ -13,7 +13,7 @@ Design a multiplayer card game that supports multiple players (up to 4) and diff
 
 - The game ends when one player runs out of cardswho is declared the winner.
 
-- BONUS: Aces, Kings, Queens and Jack are action cards. When one of these is played the following actions occur:
+BONUS: Aces, Kings, Queens and Jack are action cards. When one of these is played the following actions occur:
 
 - Ace(A): Skip the next player in turn
 
