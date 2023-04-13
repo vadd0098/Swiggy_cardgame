@@ -25,7 +25,7 @@ BONUS: Aces, Kings, Queens and Jack are action cards. When one of these is playe
 
 - NOTE: actions are not stackable i.e. if Q is played by player 1 then player two draws two cards and cannot play a Q from his hand on that turn even if available
 
-Rules of the Game:
+# Rules of the Game:
 - You can use Java, Go or Node.js to implement the solution, without using any third-party libraries or frameworks ( common and essential helper libs and packages are allowed ex. math.rand() is ok.
 
 - The code should be hosted on GitHub, and you should provide us with a link to the repository.
@@ -35,3 +35,13 @@ Rules of the Game:
 - You should provide unit tests for your solution.
 
 - We expect you to commit frequently with relevant commit messages. Multiple incremental commits are valued over one all-inclusive commit.
+
+## How to run the program.
+
+Simply clone this repository on your local system and execute the Main class' main method --> (Main.main()) and give input 
+on how many players you want the game to play for minimum = 2
+and maximum = 4.
+
+Runs on any kind of Environment which supports Java 1.8 or above.
+
+Thank you!
